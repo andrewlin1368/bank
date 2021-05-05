@@ -9,6 +9,7 @@
 
 # Run
 download files and unzip or you can use git commands
+
 ```git clone https://github.com/andrewlin1368/bank.git```
 
 ```g++ Account.cpp Account.h Bank.cpp Bank.h Client.cpp```
