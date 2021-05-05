@@ -7,10 +7,11 @@
 - Depositing and withdrawing from accounts
 - Checking accounts and avaliable balances 
 
-# Run
-download files and unzip or you can use git commands
+# Download
 
 ```git clone https://github.com/andrewlin1368/bank.git```
+
+# Run
 
 ```g++ Account.cpp Account.h Bank.cpp Bank.h Client.cpp```
 
